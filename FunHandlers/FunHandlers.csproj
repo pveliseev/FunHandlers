@@ -8,16 +8,16 @@
 
   <ItemGroup>
     <Reference Include="TSLab.DataSource">
-      <HintPath>..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.DataSource.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.DataSource.dll</HintPath>
     </Reference>
     <Reference Include="TSLab.Script">
-      <HintPath>..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Script.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Script.dll</HintPath>
     </Reference>
     <Reference Include="TSLab.Script.Handlers">
-      <HintPath>..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Script.Handlers.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Script.Handlers.dll</HintPath>
     </Reference>
     <Reference Include="TSLab.Utility">
-      <HintPath>..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Utility.dll</HintPath>
+      <HintPath>..\..\..\..\Program Files\TSLab\TSLab 2.2\TSLab.Utility.dll</HintPath>
     </Reference>
   </ItemGroup>
 
